@@ -1,6 +1,9 @@
+<img src="./.github/readme/header.svg" width="100%" alt="calculadora-react: Projeto de estudo" />
+
+<img src="./.github/readme/sobre.svg" width="100%" alt="Sobre o projeto: Calculadora feita em React, com foco em lógica de programação, componentização e manipulação de estados." />
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=180&section=header&text=Calculadora%20React&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <br>
 
